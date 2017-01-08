@@ -1,10 +1,10 @@
-## Gilded Rose Kata
+======================================
+Gilded Rose Kata
+======================================
 
 This is the starting point for the Gilded Rose kata based on Randy Coulman's presentation. You can run the test in a terminal:
 
 ruby test_gilded_rose.rb.
-
-## Requirements Specification
 
 ======================================
 Gilded Rose Requirements Specification
