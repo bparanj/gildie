@@ -1,14 +1,16 @@
-======================================
+# Watch the Screencast
+[![](https://images.rubyplus.com/rubyplus-screencast.png)](https://rubyplus.com/episodes/391-Gilded-Rose-Kata)
+
+
 Gilded Rose Kata
-======================================
+----
 
 This is the starting point for the Gilded Rose kata based on Randy Coulman's presentation. You can run the test in a terminal:
 
 ruby test_gilded_rose.rb.
 
-======================================
 Gilded Rose Requirements Specification
-======================================
+----
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a
 prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods.
